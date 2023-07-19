@@ -12,7 +12,7 @@ The object detector component utilizes computer vision techniques to identify in
 * tracker.py : This code is used to track the objects and this is imported in main.py
 * main2.py : This code is used to access the live cctv footage and detect the objects.
 # Team Members
-1) V.Chandana Priya Reddy-Team leader
+1) V.Chandana Priya Reddy
 2) R.Charitha
 3) T.Kavya
 4) K.Aashritha
